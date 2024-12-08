@@ -84,7 +84,7 @@ export default{
 <template>
   <div id="componenteAppVue">
         <header>
-          <img alt="Vue logo" src="@/assets/camellia.jpg" class="text-center d-flex justify-content-center" width="125" height="125" />
+          <img alt="Vue logo" src="@/assets/logo.svg" class="text-center d-flex justify-content-center" width="125" height="125" />
 
           <div>
             <HelloWorld msg="Bienvenid@ a app Dains" />
