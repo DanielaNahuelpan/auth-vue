@@ -88,6 +88,7 @@ export default{
 
           <div>
             <HelloWorld msg="Bienvenid@ a app Dains" />
+            <HelloWorld msg="te invitamos a navegar en el sitio web" />
 
             <nav>
               <RouterLink to="/">Home</RouterLink> |
