@@ -10,7 +10,7 @@ export default defineConfig({
     vue(),
     vueDevTools(),
   ],
-  base: "/auth-vue",
+  base: "/auth-vue/",
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
