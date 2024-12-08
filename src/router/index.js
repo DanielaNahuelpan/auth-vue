@@ -10,7 +10,7 @@ const AUTENTICACION = ()=> import('@/views/Autenticacion.vue');
 const ADMINISTRACION = ()=> import('@/views/Administracion.vue');
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createWebHistory('auth-vue'),
   routes: [
     {
       path: '/',
